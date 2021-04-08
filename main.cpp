@@ -2,16 +2,17 @@
 #include <stdlib.h>
 #include <locale.h> 
 
+// @author Gustavo Paiva idealizado de uma atividade escolar ETEC / Aluno: Julio CÃ©sar
 main()
 {
  setlocale(LC_ALL,"");
  int N;
- printf("Digite um Número:");
+ printf("Digite um NÃºmero:");
  scanf("%d",&N);
   while(N > 0){
    N--;
  if(N %2 == 0){
-    printf("Os Números pares são: %d \n ",N);
+    printf("Os NÃºmeros pares sÃ£o: %d \n ",N);
         }
      }
 }
