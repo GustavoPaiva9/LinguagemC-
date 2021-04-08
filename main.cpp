@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include <locale.h> 
-
+#include <locale.h>
 // @author Gustavo Paiva idealizado de uma atividade escolar ETEC / Aluno: Julio César
 main()
 {
